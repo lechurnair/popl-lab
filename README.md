@@ -6,5 +6,4 @@ Programming language: SML
 ## Course Overview
 
 Set of problems for the lab session of PoPL course.
-
-## Assignment 1
+The list of questions are given in respective folders.
